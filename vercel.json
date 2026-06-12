@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/quill.py": { "maxDuration": 60 },
+    "api/summary.js": { "maxDuration": 30 }
+  }
+}
