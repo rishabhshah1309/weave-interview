@@ -1,4 +1,4 @@
-# weave-interview<h1>PostHog Engineering Impact — the QUILL Score</h1>
+<h1>PostHog Engineering Impact — the QUILL Score</h1>
 <p><i>Weave take-home. Identifying the most impactful engineers on <a href="https://github.com/PostHog/posthog">PostHog/posthog</a> over the trailing 90 days (2026-03-14 → 2026-06-12).</i></p>
 
 <h2>1. TL;DR — the answer</h2>
